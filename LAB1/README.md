@@ -16,7 +16,7 @@
 - Xác nhận các gói tin SSH chỉ hiển thị dữ liệu đã mã hóa (Encrypted Payload).
 - Hoàn thành file báo cáo `.docx` kèm đầy đủ hình ảnh thực nghiệm và link video Youtube.
 
-## Các lưu ý cho Giảng viên khi kiểm tra
+## Các lưu ý 
 - File báo cáo đầy đủ nằm trong thư mục LAB1 với tên: Lab1_11CNPM2_1150080103_TranNgocPhuongLinh.docx.
 - Mô hình Lab sử dụng các IP: Server (`10.0.0.1`), Client (`10.0.0.2`), Attacker (`10.0.0.3`).
 - Phiên Telnet được lọc theo bộ lọc tcp.port == 23 và SSH theo tcp.port == 22 trên Wireshark.
