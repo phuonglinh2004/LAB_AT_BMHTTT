@@ -1,4 +1,4 @@
-# LAB 1: Bắt gói tin Telnet - SSH
+# LAB 5: THIẾT LẬP MÔ HÌNH TƯỜNG LỬA pfSense
 
 - Họ và tên: Trần Ngọc Phương Linh
 - Mã số sinh viên: 1150080103
